@@ -4,9 +4,6 @@ Address del contract: `0x15Cd938aE88E797C186135be2B579F00b387E8c6`
 
 Dirección de Etherscan: [MiPrimerToken](https://sepolia.etherscan.io/address/0x15cd938ae88e797c186135be2b579f00b387e8c6#code)
 
-## Testing
-<img width="1257" height="241" alt="image" src="https://github.com/user-attachments/assets/f86674a2-a089-409c-86b5-942381e819d1" />
-
 ## Foundry
 
 **Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.**
